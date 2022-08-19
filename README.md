@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shaikhsardar
-- 👀 I’m interested in Cyber Security Consulting
-- 🌱 I’m currently learning about cloud security. 
-- 💞️ I’m looking to collaborate on SIEM / SOC / Cyber Security. 
+- 👀 I’m Cybersecurity Consultant 
+- 💞️ I’m looking to collaborate on Next Generation SOC NexGen SIEM / SOC / Cyber Security. 
 - 📫 Reach out to me on twitter @tweetssar / facebook & instagram: @hacksrelease 
 
 <!---
