@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaikhsardar
 - 👀 I’m Cybersecurity Consultant 
-- 💞️ I’m looking to collaborate on Next Generation SOC NexGen SIEM / SOC / Cyber Security. 
+- 💞️ I love to collaborating on Cybersecurity, Information Security, DLP, Data Protection, DLP, CASB, DC, DRM, IRM,  Next Generation SOC NexGen SIEM / SOC. 
 - 📫 Reach out to me on twitter @tweetssar / facebook & instagram: @hacksrelease 
 
 <!---
